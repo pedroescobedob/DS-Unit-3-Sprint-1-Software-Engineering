@@ -264,7 +264,7 @@ career here, you'll have to answer the following:
   when others do the same for your code?
 
 An important part of code reviews is that you let others review your code and do constructive criticism to help you
-improve on your code. Letting others review your code can let you see things that you did not taught about or potential bugs.
+improve on your code. Letting others review your code can let you see things that you did not thought about and potential bugs.
 
 - We have an awful lot of computers here, and it gets pretty confusing with
   slightly different things running on all of them. How could containers help us
